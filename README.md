@@ -1,4 +1,4 @@
-# CatBandDecoder
+# CatBandDecoder (under development)
 
 CatBandDecoder is a C# Windows Application that reads the frequency of Amateur Radio Tansceivers or Receivers.
 Based on that frequency, the current amateur band is determined.
@@ -76,4 +76,8 @@ Frequency limits for each band are configurable. Default is:
 | 6 meters         | 1                | 2                | 1.5             |
 | 2 meters         | Not Available    | Not Available    | Not Available   |
 | 70 centimeters   | Not Available    | Not Available    | Not Available   |
+
+## Autores
+
+- [@joaocunhalopes](https://www.github.com/joaocunhalopes)
 
