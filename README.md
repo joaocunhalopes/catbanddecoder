@@ -43,7 +43,7 @@ The 2m and 70cm bands are planned to be added on future versions:
 | Amateur Band     | Frequency (Lower) | Frequency (Upper) |
 |------------------|-------------------|-------------------|
 | 2 meters         | 144.000 MHz       | 148.000 MHz       |
-| 70 centimeters    | 420.000 MHz       | 450.000 MHz       |
+| 70 centimeters   | 420.000 MHz       | 450.000 MHz       |
 
 ## Supported Yaesu BCD Outputs
 
@@ -61,20 +61,20 @@ The 2m and 70cm bands are planned to be added on future versions:
 | 10 meters        |   0    |   0    |   1    |   1    |
 | 6 meters         |   0    |   1    |   0    |   0    |
 | 2 meters         |   0    |   1    |   0    |   0    |
-| 70 centimeters    |   0    |   1    |   0    |   1    |
+| 70 centimeters   |   0    |   1    |   0    |   1    |
 
 ## Supported ICOM Voltage Outputs
 
 | Amateur Band     | Band Min Voltage | Band Max Voltage | Average Voltage |
-|------------------|------------------|------------------|------------------|
-| 160 meters       | 7                | 8                | 7.5              |
-| 80 meters        | 6                | 7                | 6.5              |
-| 40 meters        | 5                | 6                | 5.5              |
-| 30 meters        | 0                | 1                | 0.5              |
-| 20 meters        | 4                | 5                | 4.5              |
-| 17 meters        | 3                | 4                | 3.5              |
-| 15 meters        | 3                | 4                | 3.5              |
-| 12 meters        | 2                | 3                | 2.5              |
-| 10 meters        | 2                | 3                | 2.5              |
-| 6 meters         | 1                | 2                | 1.5              |
+|------------------|------------------|------------------|-----------------|
+| 160 meters       | 7                | 8                | 7.5             |
+| 80 meters        | 6                | 7                | 6.5             |
+| 40 meters        | 5                | 6                | 5.5             |
+| 30 meters        | 0                | 1                | 0.5             |
+| 20 meters        | 4                | 5                | 4.5             |
+| 17 meters        | 3                | 4                | 3.5             |
+| 15 meters        | 3                | 4                | 3.5             |
+| 12 meters        | 2                | 3                | 2.5             |
+| 10 meters        | 2                | 3                | 2.5             |
+| 6 meters         | 1                | 2                | 1.5             |
 
