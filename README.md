@@ -24,19 +24,24 @@ If there's enough interest, support for Elecraft K3 protocol can be added.
 
 Frequency limits for each band are configurable. Default is:
 
-| Amateur Band   | Frequency (Lower)  | Frequency (Upper)  |
-+----------------+-------------------+-------------------+
-| 160 meters     | 1.800 MHz          | 2.000 MHz          |
-| 80 meters      | 3.500 MHz          | 4.000 MHz          |
-| 60 meters      | 5.3305 MHz         | 5.4065 MHz         |
-| 40 meters      | 7.000 MHz          | 7.300 MHz          |
-| 30 meters      | 10.100 MHz         | 10.150 MHz         |
-| 20 meters      | 14.000 MHz         | 14.350 MHz         |
-| 17 meters      | 18.068 MHz         | 18.168 MHz         |
-| 15 meters      | 21.000 MHz         | 21.450 MHz         |
-| 12 meters      | 24.890 MHz         | 24.990 MHz         |
-| 10 meters      | 28.000 MHz         | 29.700 MHz         |
-| 6 meters       | 50.000 MHz         | 54.000 MHz         |
+
+Here’s the given table converted to Markdown format:
+
+markdown
+Copiar código
+| Amateur Band     | Frequency (Lower) | Frequency (Upper) |
+|------------------|-------------------|-------------------|
+| 160 meters       | 1.800 MHz         | 2.000 MHz         |
+| 80 meters        | 3.500 MHz         | 4.000 MHz         |
+| 60 meters        | 5.3305 MHz        | 5.4065 MHz        |
+| 40 meters        | 7.000 MHz         | 7.300 MHz         |
+| 30 meters        | 10.100 MHz        | 10.150 MHz        |
+| 20 meters        | 14.000 MHz        | 14.350 MHz        |
+| 17 meters        | 18.068 MHz        | 18.168 MHz        |
+| 15 meters        | 21.000 MHz        | 21.450 MHz        |
+| 12 meters        | 24.890 MHz        | 24.990 MHz        |
+| 10 meters        | 28.000 MHz        | 29.700 MHz        |
+| 6 meters         | 50.000 MHz        | 54.000 MHz        |
 
 The 2m and 70cm bands are planned to be added on future versions:
 
