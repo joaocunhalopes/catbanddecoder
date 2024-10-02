@@ -1,12 +1,13 @@
 # CatBandDecoder (under development)
 
-CatBandDecoder is a C# Windows Application that reads the frequency of Amateur Radio Tansceivers or Receivers.
+CatBandDecoder is a C# Windows Application that reads the frequency of HF Amateur Radio Tansceivers or HF Receivers.
 Based on that frequency, the current amateur band is determined.
 Once the band is determined, band information is send to an USB device that outputs band information using two different protocols:
 
 - Yaesu BCD Band Data
 - ICOM Band Voltage
 
+Based on the output, compatible peripherals can be automatically controlled.
 This app is intended at the Amateur Radio Operators community.
 
 ## Supported CAT Protocols
