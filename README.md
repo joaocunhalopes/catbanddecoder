@@ -59,7 +59,7 @@ Frequency limits for each band are configurable. Default is:
 | 2 meters         |   0    |   1    |   0    |   0    |
 | 70 centimeters   |   0    |   1    |   0    |   1    |
 
-## Supported ICOM Voltage Outputs
+## Supported ICOM Voltage Outputs (data under revision and confirmation)
 
 | Amateur Band     | Band Min Voltage | Band Max Voltage | Average Voltage |
 |------------------|------------------|------------------|-----------------|
