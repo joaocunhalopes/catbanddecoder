@@ -65,15 +65,16 @@ The 2m and 70cm bands are planned to be added on future versions:
 
 ## Supported ICOM Voltage Outputs
 
-| Amateur Band     | ICOM Band Voltage (Min) | ICOM Band Voltage (Max) |
-|------------------|-------------------------|-------------------------|
-| 160 meters       | 7                       | 8                       |
-| 80 meters        | 6                       | 7                       |
-| 40 meters        | 5                       | 6                       |
-| 30 meters        | 0                       | 1                       |
-| 20 meters        | 4                       | 5                       |
-| 17 meters        | 3                       | 4                       |
-| 15 meters        | 3                       | 4                       |
-| 12 meters        | 2                       | 3                       |
-| 10 meters        | 2                       | 3                       |
-| 6 meters         | 1                       | 2                       |
+| Amateur Band     | Band Min Voltage | Band Max Voltage | Average Voltage |
+|------------------|------------------|------------------|------------------|
+| 160 meters       | 7                | 8                | 7.5              |
+| 80 meters        | 6                | 7                | 6.5              |
+| 40 meters        | 5                | 6                | 5.5              |
+| 30 meters        | 0                | 1                | 0.5              |
+| 20 meters        | 4                | 5                | 4.5              |
+| 17 meters        | 3                | 4                | 3.5              |
+| 15 meters        | 3                | 4                | 3.5              |
+| 12 meters        | 2                | 3                | 2.5              |
+| 10 meters        | 2                | 3                | 2.5              |
+| 6 meters         | 1                | 2                | 1.5              |
+
