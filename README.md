@@ -45,7 +45,6 @@ The 2m and 70cm bands are planned to be added on future versions:
 | 2 meters         | 144.000 MHz       | 148.000 MHz       |
 | 70 centimeters    | 420.000 MHz       | 450.000 MHz       |
 
-
 ## Supported Yaesu BCD Outputs
 
 | Amateur Band     | Band A | Band B | Band C | Band D |
@@ -63,3 +62,18 @@ The 2m and 70cm bands are planned to be added on future versions:
 | 6 meters         |   0    |   1    |   0    |   0    |
 | 2 meters         |   0    |   1    |   0    |   0    |
 | 70 centimeters    |   0    |   1    |   0    |   1    |
+
+## Supported ICOM Voltage Outputs
+
+| Amateur Band     | ICOM Band Voltage (Min) | ICOM Band Voltage (Max) |
+|------------------|-------------------------|-------------------------|
+| 160 meters       | 7                       | 8                       |
+| 80 meters        | 6                       | 7                       |
+| 40 meters        | 5                       | 6                       |
+| 30 meters        | 0                       | 1                       |
+| 20 meters        | 4                       | 5                       |
+| 17 meters        | 3                       | 4                       |
+| 15 meters        | 3                       | 4                       |
+| 12 meters        | 2                       | 3                       |
+| 10 meters        | 2                       | 3                       |
+| 6 meters         | 1                       | 2                       |
