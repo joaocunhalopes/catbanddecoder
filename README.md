@@ -39,6 +39,7 @@ Frequency limits for each band are configurable. Default is:
 | 6 meters         | 50.000 MHz        | 54.000 MHz        |
 <br>
 The 2m and 70cm bands are planned to be added on future versions:
+
 | Amateur Band     | Frequency (Lower) | Frequency (Upper) |
 |------------------|-------------------|-------------------|
 | 2 meters         | 144.000 MHz       | 148.000 MHz       |
