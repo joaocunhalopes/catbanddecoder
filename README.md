@@ -41,19 +41,19 @@ Frequency limits for each band are configurable. Default is:
 
 ## Supported Yaesu BCD Outputs
 
-| Amateur Band     | Band D | Band C | Band B | Band A |
-|------------------|--------|--------|--------|--------|
-| Out of Band      |   0    |   0    |   0    |   0    |
-| 160 meters       |   0    |   0    |   0    |   1    |
-| 80 meters        |   0    |   0    |   1    |   0    |
-| 40 meters        |   0    |   0    |   1    |   1    |
-| 30 meters        |   0    |   1    |   0    |   0    |
-| 20 meters        |   0    |   1    |   0    |   1    |
-| 17 meters        |   0    |   1    |   1    |   0    |
-| 15 meters        |   0    |   1    |   1    |   1    |
-| 12 meters        |   1    |   0    |   0    |   0    |
-| 10 meters        |   1    |   0    |   0    |   1    |
-| 6 meters         |   1    |   0    |   1    |   0    |
+| Amateur Band     | Band D | Band C | Band B | Band A | Band Hex |
+|------------------|--------|--------|--------|--------|----------|
+| Out of Band      | 0      | 0      | 0      | 0      | 0        |
+| 160 meters       | 0      | 0      | 0      | 1      | 1        |
+| 80 meters        | 0      | 0      | 1      | 0      | 2        |
+| 40 meters        | 0      | 0      | 1      | 1      | 3        |
+| 30 meters        | 0      | 1      | 0      | 0      | 4        |
+| 20 meters        | 0      | 1      | 0      | 1      | 5        |
+| 17 meters        | 0      | 1      | 1      | 0      | 6        |
+| 15 meters        | 0      | 1      | 1      | 1      | 7        |
+| 12 meters        | 1      | 0      | 0      | 0      | 8        |
+| 10 meters        | 1      | 0      | 0      | 1      | 9        |
+| 6 meters         | 1      | 0      | 1      | 0      | A        |
 
 ## Supported ICOM Voltage Outputs (data under revision and confirmation)
 
