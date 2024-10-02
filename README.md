@@ -37,27 +37,22 @@ Frequency limits for each band are configurable. Default is:
 | 12 meters        | 24.890 MHz        | 24.990 MHz        |
 | 10 meters        | 28.000 MHz        | 29.700 MHz        |
 | 6 meters         | 50.000 MHz        | 54.000 MHz        |
-| 2 meters         | 144.000 MHz       | 148.000 MHz       |
-| 70 centimeters   | 420.000 MHz       | 450.000 MHz       |
 
 ## Supported Yaesu BCD Outputs
 
-| Amateur Band     | Band A | Band B | Band C | Band D |
+| Amateur Band     | Band D | Band C | Band B | Band A |
 |------------------|--------|--------|--------|--------|
 | Out of Band      |   0    |   0    |   0    |   0    |
 | 160 meters       |   0    |   0    |   0    |   1    |
-| 80 meters        |   0    |   0    |   0    |   1    |
-| 60 meters        |   0    |   0    |   0    |   1    |
-| 40 meters        |   0    |   0    |   0    |   1    |
-| 30 meters        |   0    |   0    |   0    |   1    |
-| 20 meters        |   0    |   0    |   1    |   0    |
-| 17 meters        |   0    |   0    |   1    |   0    |
-| 15 meters        |   0    |   0    |   1    |   0    |
-| 12 meters        |   0    |   0    |   1    |   1    |
-| 10 meters        |   0    |   0    |   1    |   1    |
-| 6 meters         |   0    |   1    |   0    |   0    |
-| 2 meters         |   0    |   1    |   0    |   0    |
-| 70 centimeters   |   0    |   1    |   0    |   1    |
+| 80 meters        |   0    |   0    |   1    |   0    |
+| 40 meters        |   0    |   0    |   1    |   1    |
+| 30 meters        |   0    |   1    |   0    |   0    |
+| 20 meters        |   0    |   1    |   0    |   1    |
+| 17 meters        |   0    |   1    |   1    |   0    |
+| 15 meters        |   0    |   1    |   1    |   1    |
+| 12 meters        |   1    |   0    |   0    |   0    |
+| 10 meters        |   1    |   0    |   0    |   1    |
+| 6 meters         |   1    |   0    |   1    |   0    |
 
 ## Supported ICOM Voltage Outputs (data under revision and confirmation)
 
@@ -74,8 +69,6 @@ Frequency limits for each band are configurable. Default is:
 | 12 meters        | 2                | 3                | 2.5             |
 | 10 meters        | 2                | 3                | 2.5             |
 | 6 meters         | 1                | 2                | 1.5             |
-| 2 meters         | Not Available    | Not Available    | Not Available   |
-| 70 centimeters   | Not Available    | Not Available    | Not Available   |
 
 ## Autores
 
