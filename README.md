@@ -44,6 +44,7 @@ Frequency limits for each band are configurable. Default is:
 
 | Amateur Band     | Band A | Band B | Band C | Band D |
 |------------------|--------|--------|--------|--------|
+| Out of Band      |   0    |   0    |   0    |   0    |
 | 160 meters       |   0    |   0    |   0    |   1    |
 | 80 meters        |   0    |   0    |   0    |   1    |
 | 60 meters        |   0    |   0    |   0    |   1    |
@@ -57,12 +58,12 @@ Frequency limits for each band are configurable. Default is:
 | 6 meters         |   0    |   1    |   0    |   0    |
 | 2 meters         |   0    |   1    |   0    |   0    |
 | 70 centimeters   |   0    |   1    |   0    |   1    |
-| Out of Band      |   0    |   0    |   0    |   0    |
 
 ## Supported ICOM Voltage Outputs
 
 | Amateur Band     | Band Min Voltage | Band Max Voltage | Average Voltage |
 |------------------|------------------|------------------|-----------------|
+| Out of Band      | To Be Defined    | To Be Defined    | To Be Defined   |
 | 160 meters       | 7                | 8                | 7.5             |
 | 80 meters        | 6                | 7                | 6.5             |
 | 40 meters        | 5                | 6                | 5.5             |
@@ -75,5 +76,4 @@ Frequency limits for each band are configurable. Default is:
 | 6 meters         | 1                | 2                | 1.5             |
 | 2 meters         | Not Available    | Not Available    | Not Available   |
 | 70 centimeters   | Not Available    | Not Available    | Not Available   |
-| Out of Band      |   0              |   0              |   0             |
 
