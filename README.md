@@ -24,7 +24,6 @@ If there's enough interest, support for Elecraft K3 protocol can be added.
 
 Frequency limits for each band are configurable. Default is:
 
-+----------------+-------------------+-------------------+
 | Amateur Band   | Frequency (Lower)  | Frequency (Upper)  |
 +----------------+-------------------+-------------------+
 | 160 meters     | 1.800 MHz          | 2.000 MHz          |
@@ -38,23 +37,19 @@ Frequency limits for each band are configurable. Default is:
 | 12 meters      | 24.890 MHz         | 24.990 MHz         |
 | 10 meters      | 28.000 MHz         | 29.700 MHz         |
 | 6 meters       | 50.000 MHz         | 54.000 MHz         |
-+----------------+-------------------+-------------------+
 
 The 2m and 70cm bands are planned to be added on future versions:
 
-+----------------+-------------------+-------------------+
-| Amateur Band   | Frequency (Lower)  | Frequency (Upper)  |
-+----------------+-------------------+-------------------+
-| 2 meters       | 144.000 MHz        | 148.000 MHz        |
-| 70 centimeters  | 420.000 MHz        | 450.000 MHz        |
-+----------------+-------------------+-------------------+
+| Amateur Band     | Frequency (Lower) | Frequency (Upper) |
+|------------------|-------------------|-------------------|
+| 2 meters         | 144.000 MHz       | 148.000 MHz       |
+| 70 centimeters    | 420.000 MHz       | 450.000 MHz       |
 
 
 ## Supported Yaesu BCD Outputs
 
 | Amateur Band     | Band A | Band B | Band C | Band D |
 |------------------|--------|--------|--------|--------|
-| **Yaesu Band Data** |        |        |        |        |
 | 160 meters       |   0    |   0    |   0    |   1    |
 | 80 meters        |   0    |   0    |   0    |   1    |
 | 60 meters        |   0    |   0    |   0    |   1    |
