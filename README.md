@@ -52,22 +52,19 @@ The 2m and 70cm bands are planned to be added on future versions:
 
 ## Supported Yaesu BCD Outputs
 
-                 +----------------+---------------------+
-                 |  Yaesu Band Data                      |
-+----------------+---------+---------+---------+---------+
-| Amateur Band   | Band A | Band B | Band C | Band D |
-+----------------+---------+---------+---------+---------+
-| 160 meters     |    0    |    0    |    0    |    1    |
-| 80 meters      |    0    |    0    |    0    |    1    |
-| 60 meters      |    0    |    0    |    0    |    1    |
-| 40 meters      |    0    |    0    |    0    |    1    |
-| 30 meters      |    0    |    0    |    0    |    1    |
-| 20 meters      |    0    |    0    |    1    |    0    |
-| 17 meters      |    0    |    0    |    1    |    0    |
-| 15 meters      |    0    |    0    |    1    |    0    |
-| 12 meters      |    0    |    0    |    1    |    1    |
-| 10 meters      |    0    |    0    |    1    |    1    |
-| 6 meters       |    0    |    1    |    0    |    0    |
-| 2 meters       |    0    |    1    |    0    |    0    |
-| 70 centimeters  |    0    |    1    |    0    |    1    |
-+----------------+---------+---------+---------+---------+
+| Amateur Band     | Band A | Band B | Band C | Band D |
+|------------------|--------|--------|--------|--------|
+| **Yaesu Band Data** |        |        |        |        |
+| 160 meters       |   0    |   0    |   0    |   1    |
+| 80 meters        |   0    |   0    |   0    |   1    |
+| 60 meters        |   0    |   0    |   0    |   1    |
+| 40 meters        |   0    |   0    |   0    |   1    |
+| 30 meters        |   0    |   0    |   0    |   1    |
+| 20 meters        |   0    |   0    |   1    |   0    |
+| 17 meters        |   0    |   0    |   1    |   0    |
+| 15 meters        |   0    |   0    |   1    |   0    |
+| 12 meters        |   0    |   0    |   1    |   1    |
+| 10 meters        |   0    |   0    |   1    |   1    |
+| 6 meters         |   0    |   1    |   0    |   0    |
+| 2 meters         |   0    |   1    |   0    |   0    |
+| 70 centimeters    |   0    |   1    |   0    |   1    |
